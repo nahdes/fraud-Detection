@@ -1,11 +1,8 @@
 
 data/raw/
 data/processed
-
 data/raw/creditcard.csv
 data/raw/Fraud_Data.csv
 data/raw/IpAddress_to_Country.csv
-
-
 outputs/
 *.log
