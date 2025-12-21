@@ -1,0 +1,10 @@
+# Ignore raw data files (large)
+data/raw/
+# OR specifically:
+data/raw/creditcard.csv
+data/raw/Fraud_Data.csv
+data/raw/IpAddress_to_Country.csv
+
+# Also ignore outputs/logs if needed
+outputs/
+*.log
